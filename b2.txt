@@ -3,3 +3,9 @@ khobi
 shokr
 salamati
 khodaro shokr
+
+d1
+d2
+d3
+
+g1
