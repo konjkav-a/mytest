@@ -1,2 +1,9 @@
 hi
 khobi?
+
+
+
+def f1
+
+
+def f2
